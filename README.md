@@ -1,1 +1,10 @@
 # Sports-Management-System
+Sports Management System (SMS) is a web-based application developed in PHP with a MySQL backend to streamline sports event management in colleges and universities. The system is designed with three main modules — Student, Coach, and Admin — each providing tailored features to meet specific needs. The Student Module allows students to register/login, view available sports events, apply for participation, track achievements, view BMI record of his/her own , update passwords, and check the sports calendar.
+
+The Coach Module enables coaches to log in using admin-created credentials, record and calculate BMI, view and filter BMI records by department/course/section, announce results, manage sports inventory, schedule fixtures, upload bills, view participant lists, and filter achievements.
+
+The Admin Module offers comprehensive control, including creating coach accounts, viewing BMI records, managing inventory, evaluating uploaded bills, and monitoring ongoing events. Admins can also filter achievements and oversee event participation.
+
+The SMS improves efficiency, data accuracy, and transparency in sports administration. Its role-based access ensures that each user interacts only with the functionalities relevant to them. The system is built with a responsive user interface, enabling access from desktops and mobile devices.
+
+This project reflects my ability to design and implement information systems that integrate multiple roles, manage complex datasets, and support decision-making processes. It highlights my skills in database design, role-based access control, data management, and user-centric interface development — all of which are key components in modern information systems. The Sports Management System is not only a practical solution for sports administration but also an example of how technology can be applied to streamline operations, improve data accuracy, and enhance organizational efficiency. This aligns closely with my academic interest in Information Systems, particularly in developing solutions that bridge technology and organizational needs.
